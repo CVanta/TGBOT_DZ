@@ -1,10 +1,9 @@
 package com.example.TgBotDz;
 
-import com.example.TgBotDz.service.TgBot;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+import org.springframework.boot.SpringApplication;
+
+
 public class TgBotDzApplication {
 
 	public static void main(String[] args) {
